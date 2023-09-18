@@ -16,6 +16,7 @@
 	<description>Spring</description>
     <modules>
         <module>spring-01-core-IoC</module>
+        <module>spring-02-Core-Wiring</module>
     </modules>
     <properties>
 		<java.version>17</java.version>

@@ -18,7 +18,8 @@
         <module>spring-01-core-IoC</module>
         <module>spring-02-Core-Wiring</module>
 		<module>spring-03-Core-DI</module>
-	</modules>
+        <module>spring-04-Abstraction</module>
+    </modules>
     <properties>
 		<java.version>17</java.version>
 	</properties>

@@ -19,6 +19,7 @@
         <module>spring-02-Core-Wiring</module>
 		<module>spring-03-Core-DI</module>
         <module>spring-04-Abstraction</module>
+        <module>spring-05-Core-BeanScope</module>
     </modules>
     <properties>
 		<java.version>17</java.version>

@@ -9,18 +9,11 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.cydeo</groupId>
-	<artifactId>Spring</artifactId>
+	<artifactId>Spring-06-SpringBoot-Demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-    <packaging>pom</packaging>
-    <name>Spring</name>
-	<description>Spring</description>
-    <modules>
-        <module>spring-01-core-IoC</module>
-        <module>spring-02-Core-Wiring</module>
-		<module>spring-03-Core-DI</module>
-        <module>spring-04-Abstraction</module>
-        <module>spring-05-Core-BeanScope</module>
-    </modules>
+	<name>Spring-06-SpringBoot-Demo</name>
+	<description>Spring-06-SpringBoot-Demo</description>
+
     <properties>
 		<java.version>17</java.version>
 	</properties>
